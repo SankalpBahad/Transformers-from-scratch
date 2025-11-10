@@ -37,12 +37,13 @@ While many frameworks provide high-level Transformer implementations, this proje
 ---
 
 ## Repository Structure  
+```
 ├─ final_code.py # main training & evaluation script
 ├─ train_outputs.txt # logged training outputs: [prediction]\t[true]\t[BLEU_Score]
 ├─ test_outputs.txt # logged test outputs: [prediction]\t[true]\t[BLEU_Score]
 ├─ Report.pdf # project report with graphs & analysis
 └─ README.md # this file
-
+```
 ---
 
 ## Getting Started  
